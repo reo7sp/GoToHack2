@@ -101,7 +101,5 @@ vw
 data/sentiment/*.pickle
 data/sentiment/*.json
 gotohack-script
-data/vk/descs_lda_groups_df.csv # Too big
-data/vk/soc-dem_and_labels.csv # Too big
 data/vk/desc_of_group.csv
 data/vk/soc-dem_and_labels.csv
